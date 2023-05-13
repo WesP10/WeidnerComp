@@ -1,7 +1,6 @@
 # Hashtags
 
-This project can be used as a starting point to create your own Vaadin application with Spring Boot.
-It contains all the necessary configuration and some placeholder files to get you started.
+Web application built with Spring Boot with upload photo and video utilities. Photos will have hast-tags automatically generated and then shared in the gallery. Video will have hashtags generated, sub-titles added automatically using Google's Vision AI, and color correction applied.
 
 ## Running the application
 
