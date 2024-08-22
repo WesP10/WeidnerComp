@@ -1,6 +1,10 @@
 # Hashtags
 
-Web application built with Spring Boot with upload photo and video utilities. Photos will have hast-tags automatically generated and then shared in the gallery. Video will have hashtags generated, sub-titles added automatically using Google's Vision AI, and color correction applied.
+Web application built with Spring Boot with upload photo and video utilities. The frontend is using Vaadin to generate views and the backend is using vanilla Java with the help of some API's. Photos will have hast-tags automatically generated and then shared in the gallery. Video will have hashtags generated and sub-titles added automatically using Google's Vision AI.
+
+### Developer's Note
+
+Due to the depriciation of Version 1 of Google's Vision AI, the project is not currently operational. The server will run but the server will not be able to find a working webpage due to errors. I have considered revisting the project to add color correction features and update the Vision API, however I have exhausted all my free tokens on Google Cloud.
 
 ## Running the application
 
