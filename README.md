@@ -4,7 +4,7 @@ Web application built with Spring Boot with upload photo and video utilities. Th
 
 ### Developer's Note
 
-Due to the depriciation of Version 1 of Google's Vision AI, the project is not currently operational. The server will run but the server will not be able to find a working webpage due to errors. I have considered revisting the project to add color correction features and update the Vision API, however I have exhausted all my free tokens on Google Cloud.
+Due to the depriciation of Version 1 of Google's Vision AI, the project is not currently operational. The server will run but the browser will not be able to find a working webpage due to errors. I have considered revisting the project to add color correction features and update the Vision API, however I have exhausted all my free tokens on Google Cloud.
 
 ## Running the application
 
